@@ -1,0 +1,25 @@
+# Python cache and byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build / Distribution artifacts (upload these via GitHub Releases instead)
+dist/
+build/
+*.zip
+*.tar.gz
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
